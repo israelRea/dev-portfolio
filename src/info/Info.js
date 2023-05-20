@@ -116,8 +116,8 @@ export const info = {
 
     {
         title: "My portfolio",
-        live: "https://github.com/israelRea/MyPortfolio",
-        source: "https://israelrea.github.io/MyPortfolio/",
+        live: "https://github.com/israelRea/dev-portfolio",
+        source: "https://israelrea.github.io/dev-portfolio",
         image: mock4
     },
 ]
